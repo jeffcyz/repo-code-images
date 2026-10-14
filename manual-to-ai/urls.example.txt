@@ -1,0 +1,4 @@
+# Copy this to urls.txt and replace these placeholders with actual manual pages.
+https://documentation.example.com/manual/deal.html
+https://documentation.example.com/manual/bond.html
+https://documentation.example.com/manual/accounts.html

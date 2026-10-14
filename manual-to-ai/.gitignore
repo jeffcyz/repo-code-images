@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+private-login-profile/
+manual_ai_export/
+*.mhtml

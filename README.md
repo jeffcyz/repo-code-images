@@ -84,3 +84,9 @@ python -m pytest -q
 ~~~
 
 **Security and accuracy:** Do not upload proprietary, credential-bearing, or regulated source code to ChatGPT without required authorization. PNGs are lossless images but visual AI can still misread small punctuation or indentation; original text is more reliable for exact edits.
+
+## Web documentation to AI images
+
+For the separate tool that archives documentation websites (original HTML/MHTML, full Markdown, CSV/JSON tables, compact PNGs, and manifests), see [manual-to-ai/README_中文.md](manual-to-ai/README_中文.md).
+
+The documentation exporter supports interactive login and reusing an installed Microsoft Edge/Chrome browser without downloading Playwright Chromium.
