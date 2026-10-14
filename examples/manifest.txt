@@ -1,0 +1,20 @@
+Repository Code Images — manifest.txt
+SOURCE_ROOT: D:\Projects\my-project
+OUTPUT_ROOT: D:\Projects\my-project_code_images
+GENERATED_UTC: 2026-10-14T00:00:00+00:00
+OPTIONS: max_lines=80; max_width=2000; overlap=35; scale=1.5; font_size=18; style=monokai
+NO WRAP: Horizontal slices overlap; read h001 then h002.
+
+FILE: src/validation.py
+  SHA256: <example SHA-256 digest>
+  ENCODING: utf-8-sig
+  LINES: 110
+  IMAGE: src/validation.py.v001.h001.png | lines 1-80 | vertical 1/2 | horizontal 1/2 | x_offset=0px
+  IMAGE: src/validation.py.v001.h002.png | lines 1-80 | vertical 1/2 | horizontal 2/2 | x_offset=1600px
+  IMAGE: src/validation.py.v002.h001.png | lines 81-110 | vertical 2/2 | horizontal 1/1 | x_offset=0px
+
+SUMMARY:
+  Source files discovered: 1
+  Source files rendered: 1
+  PNG images generated: 3
+  Skipped/error entries: 0
